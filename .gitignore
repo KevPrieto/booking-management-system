@@ -1,0 +1,9 @@
+# Ignore build artifacts and IDE settings
+/target/
+!/target/run-booking-app.bat
+/data/
+/.idea/
+/.vscode/
+/*.iml
+*.class
+*.log
